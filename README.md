@@ -39,18 +39,11 @@ Desarrollador de Software con **+4 años de experiencia** transformando ideas en
 
 ---
 
-## 📊 Mis Estadísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoPerezD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPerezD&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
 ---
 
 ## 🌟 Proyectos Destacados
 1. 📄 **[ConvertMaster Pro](https://convert.denisdev.tech/home)**: Manipulación avanzada de PDFs con Ionic y Vue 3.
-2. 🛒 **E-Commerce Platform**: Sistema completo con pasarela de pagos y gestión de inventarios.
-3. 📝 **[Task Manager](https://task-manager.denisdev.tech/login)**: Gestión colaborativa de tareas con Supabase y Pinia.
+2. 📝 **[Task Manager](https://task-manager.denisdev.tech/login)**: Gestión colaborativa de tareas con Postgres y Pinia.
 
 ---
 
